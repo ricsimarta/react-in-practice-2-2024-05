@@ -1,0 +1,11 @@
+div.lang {
+  display: flex;
+  gap: 5px;
+
+  cursor: pointer;
+  user-select: none;
+}
+
+div.lang span.selected {
+  font-weight: 700;
+}
